@@ -5,7 +5,7 @@
 #ifndef DLINKEDLIST_H
 #define DLINKEDLIST_H
 
-#include "list/IList.h"
+#include "IList.h"
 
 #include <sstream>
 #include <iostream>

@@ -4,7 +4,7 @@
 
 #ifndef XARRAYLIST_H
 #define XARRAYLIST_H
-#include "list/IList.h"
+#include "IList.h"
 #include <memory.h>
 #include <sstream>
 #include <iostream>
